@@ -1,22 +1,23 @@
 # Apple Service - DOMAIN-SET format
-appstore.com
-itunes.com
-mzstatic.com
-testflight.apple.com
-icloud.com
-icloud-content.com
-me.com
-apple-cloudkit.com
-apple-livephotoskit.com
-aaplimg.com
-apple.co
-apple.com
-apple-dns.net
-apple-mapkit.com
-apple-support.com
-cdn-apple.com
-apple.news
-apple-support
-# IP ranges
-17.0.0.0/8
-2a01:b280::/32
+
+.appstore.com
+.itunes.com
+.mzstatic.com
+.testflight.apple.com
+.icloud.com
+.icloud-content.com
+.me.com
+.apple-cloudkit.com
+.apple-livephotoskit.com
+.aaplimg.com
+.apple.co
+.apple.com
+.apple-dns.net
+.apple-mapkit.com
+.apple-support.com
+.cdn-apple.com
+.apple.news
+.apple-support
+.# IP ranges
+.17.0.0.0/8
+.2a01:b280::/32
