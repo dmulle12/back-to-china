@@ -7,8 +7,6 @@
 .icloud.com
 .icloud-content.com
 .me.com
-.apple-cloudkit.com
-.apple-livephotoskit.com
 .aaplimg.com
 .apple.co
 .apple.com
@@ -17,4 +15,6 @@
 .apple-support.com
 .cdn-apple.com
 .apple.news
-
+.gateway.icloud.com
+.apple-cloudkit.com
+.apple-livephotoskit.com
