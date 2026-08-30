@@ -1,0 +1,4 @@
+[Subscribe]
+# Sub-Store 订阅示例
+url = https://sub-store.example.com/subscription.txt
+policy = proxy

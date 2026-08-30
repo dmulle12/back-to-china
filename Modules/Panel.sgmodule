@@ -1,0 +1,2 @@
+[Script]
+network-info = type=js,timeout=10,policy=direct,script-path=https://raw.githubusercontent.com/<YOUR_USERNAME>/back-to-china/master/Scripts/network-info.js

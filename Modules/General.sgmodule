@@ -1,0 +1,6 @@
+[General]
+loglevel = notify
+bypass-tun = 192.168.0.0/16,10.0.0.0/8
+skip-proxy = 127.0.0.1,localhost
+# 特殊 DNS 配置，使用本地 DNS 服务器 127.0.0.1
+dns-server = 127.0.0.1

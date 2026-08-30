@@ -1,0 +1,4 @@
+[Rewrite]
+# 示例广告拦截规则
+^.*\.doubleclick\.net$ reject
+^.*\.adsystem\.com$ reject
