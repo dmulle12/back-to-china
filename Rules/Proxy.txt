@@ -6,6 +6,7 @@
 .ggpht.com
 .gvt1.com
 .googleusercontent.com
+.googleadservices.com
 .youtube.com
 .ytimg.com
 .github.com
