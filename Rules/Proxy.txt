@@ -1,12 +1,8 @@
 # Proxy list: common overseas services
 
-.google.com
-.googleapis.com
 .gstatic.com
 .ggpht.com
 .gvt1.com
-.googleusercontent.com
-.googleadservices.com
 .youtube.com
 .ytimg.com
 .github.com
@@ -34,6 +30,5 @@
 .ai.google.dev
 .ai.studio
 .aistudio.google.com
-.bard.google.com
 .gemini.google
 .gemini.google.com
