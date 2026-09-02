@@ -1,3 +1,452 @@
-# 拒绝规则
-*.adservice.google.com
-*.ads.youtube.com
+# NAME: Rejec.txt
+# AUTHOR: Surge5 iOS
+# DESCRIPTION: Advertising & Tracking Rejection
+# UPDATED: 2026-09-02
+# VERSION: 5.21.1
+# FORMAT: DOMAIN-SET
+# ==============================
+# GOOGLE ADS & TRACKING
+# ==============================
+.ads.google.com
+.adservice.google.com
+.adservice.google.com.my
+.adservice.google.co.uk
+.adservice.google.ca
+.adsymptotic.com
+.doubleclick.net
+.googleadservices.com
+.googlesyndication.com
+.googletagmanager.com
+.googletagservices.com
+.google-analytics.com
+.analytics.google.com
+.g.doubleclick.net
+.stats.g.doubleclick.net
+.pagead2.googlesyndication.com
+.tpc.googlesyndication.com
+.cm.g.doubleclick.net
+.ad.mo.doubleclick.net
+.partner.googleadservices.com
+# ==============================
+# FACEBOOK / META ADS & TRACKING
+# ==============================
+.an.facebook.com
+.advertising.facebook.com
+.connect.facebook.net
+.pixel.facebook.com
+.analytics.facebook.com
+.tr.facebook.com
+.ad.atdmt.com
+.akamaihd.net
+.pixel.wp.com
+# ==============================
+# AMAZON ADS
+# ==============================
+.aax.amazon-adsystem.com
+.amazon-adsystem.com
+.assoc-amazon.com
+.fls.doubleclick.net
+.adsystem.amazon.com
+.mads.amazon-adsystem.com
+.aax-us-east.amazon-adsystem.com
+# ==============================
+# MICROSOFT ADS & TRACKING
+# ==============================
+.ads.microsoft.com
+.bat.bing.com
+.bing.com.tracker
+.bingads.microsoft.com
+.ads1.msads.net
+.adnxs.com
+.appnexus.com
+.msn.com.ads
+.c.atdmt.com
+.msads.net
+.az361816.vo.msecnd.net
+
+# ==============================
+# TWITTER / X ADS
+# ==============================
+.ads.twitter.com
+.ads.x.com
+.analytics.twitter.com
+.static.ads-twitter.com
+.t.co.adsystem
+.ads-api.twitter.com
+# ==============================
+# TIKTOK ADS & TRACKING
+# ==============================
+.ads.tiktok.com
+.analytics.tiktok.com
+.mon.tiktok.com
+.log.tiktok.com
+.mssdk-va.tiktok.com
+.tobtrack.com
+.tiktokbyteflow.com
+.event.tiktokv.com
+.analytics.byteoversea.com
+.log.byteoversea.com
+# ==============================
+# YAHOO / OATH / VERIZON ADS
+# ==============================
+.ads.yahoo.com
+.gemini.yahoo.com
+.adtech.de
+.advertising.com
+.adtechus.com
+.nexage.com
+.bluekai.com
+.oath.com
+.yieldmanager.com
+.yieldmanager.net
+.yimg.com
+.ad.yieldmanager.com
+.adserver.yahoo.com
+# ==============================
+# POPULAR AD NETWORKS
+# ==============================
+.ad.doubleclick.net
+.adsafeprotected.com
+.moatads.com
+.moatpixel.com
+.ib.adnxs.com
+.adnxs.com
+.criteo.com
+.criteo.net
+.rtax.criteo.com
+.static.criteo.net
+.onecount.net
+.bidswitch.net
+.bidswitch.com
+.rubiconproject.com
+.rubiconproject.net
+.openx.net
+.openx.com
+.casalemedia.com
+.indexww.com
+.pubmatic.com
+.ads.pubmatic.com
+.simage2.pubmatic.com
+.sharethrough.com
+.smartadserver.com
+.smartclip.net
+.sovrn.com
+.lijit.com
+.exponential.com
+.tribalfusion.com
+.undertone.com
+.undertoneads.com
+.yieldlab.net
+.yieldlab.com
+.33across.com
+.spotxchange.com
+.spotx.tv
+.teads.com
+.teads.tv
+.teads-assets.com
+.taboola.com
+.tbn0.google.com
+.outbrain.com
+.amplifyrelay.com
+.zemanta.com
+.revcontent.com
+.tradedoubler.com
+.adbrite.com
+.propellerads.com
+.exoclick.com
+.trafficjunky.net
+.juicyads.com
+.ero-advertising.com
+.adskeeper.co.uk
+.mgid.com
+.buzzoola.com
+.clickfrog.com
+.hilltopads.com
+.plugrush.com
+.adcash.com
+.popads.net
+.popcash.net
+.adsterra.com
+.clickadu.com
+.traffic-media.co
+.evadav.com
+.bidvertiser.com
+.media.net
+.ads.media.net
+.contextweb.com
+.pulsepoint.com
+.admedo.com
+.adform.com
+.adform.net
+.logly.co.jp
+.yj-adsdeal.yahoo.co.jp
+.ads.naver.com
+# ==============================
+# MOBILE ADS SDKs
+# ==============================
+.admob.com
+.googlemobileads.com
+.ad.googlemobileads.com
+.app-measurement.com
+.applovin.com
+.sdk.applovin.com
+.mopub.com
+.ads.mopub.com
+.flurry.com
+.vungle.com
+.unityads.unity3d.com
+.ads.unity.com
+.ironsource.com
+.adinplay.com
+.inmobi.com
+.w.inmobi.com
+.c2.w.inmobi.com
+.akamaized.net.ads
+.adcolony.com
+.inner-active.mobi
+.inneractive.com
+.chartboost.com
+.tapjoy.com
+.taptica.com
+.smaato.com
+.smaato.net
+.millenial-media.com
+.millennialmedia.com
+.myads.com
+.fyber.com
+.digital-turbine.com
+.startapp.com
+.startio.com
+.mobvista.com
+.mintegral.com
+.ads.mintegral.com
+# ==============================
+# ANALYTICS & TELEMETRY
+# ==============================
+.mixpanel.com
+.amplitude.com
+.api.amplitude.com
+.segment.com
+.cdn.segment.com
+.api.segment.io
+.heap.io
+.heapanalytics.com
+.hotjar.com
+.mouseflow.com
+.crazyegg.com
+.fullstory.com
+.logrocket.com
+.smartlook.com
+.inspectlet.com
+.luckyorange.com
+.sessioncam.com
+.quantserve.com
+.scorecardresearch.com
+.comscore.com
+.clicktale.net
+.clicktale.com
+.parsely.com
+.chartbeat.com
+.chartbeat.net
+.newrelic.com
+.nr-data.net
+.bam.nr-data.net
+.js-agent.newrelic.com
+.apm.newrelic.com
+.insights-collector.newrelic.com
+.kissmetrics.com
+.woopra.com
+.statcounter.com
+.matomo.cloud
+.clicky.com
+.clickmeter.com
+.branch.io
+.app.link
+.adjust.com
+.app.adjust.com
+.appsflyer.com
+.kochava.com
+.singular.net
+.skanwifi.com
+.tenjin.io
+.tenjin.com
+.datadog-browser-agent.com
+.browser-intake-datadoghq.com
+.datadoghq.com
+.splunkcloud.com
+.dynatrace.com
+.abtasty.com
+.optimizely.com
+.cdn.optimizely.com
+.experiments.com
+# ==============================
+# SPYWARE / FINGERPRINTING
+# ==============================
+.trackjs.com
+.track.js.io
+.fingerprintjs.com
+.pro.fingerprintjs.com
+.fpjs.pro
+.deviceatlas.com
+.maxmind.com
+.geoip.maxmind.com
+.clearsale.com.br
+.threatmetrix.com
+.iovation.com
+.deviceident.com
+.whoisonmylaptop.com
+.trackerdetect.com
+# ==============================
+# CROSS-SITE TRACKING & DATA BROKERS
+# ==============================
+.addthis.com
+.addtoany.com
+.sharethis.com
+.shareaholic.com
+.zergnet.com
+.ligatus.com
+.adsrvr.org
+.tradedesk.com
+.thetradedesk.com
+.rlcdn.com
+.liadm.com
+.liveramp.com
+.absorbingbody.com
+.demdex.net
+.adobe.demdex.net
+.dmp.adobe.com
+.omtrdc.net
+.2o7.net
+.adobedtm.com
+.sc.omtrdc.net
+.adobeanalytics.com
+.evidon.com
+.ensighten.com
+.tealiumiq.com
+.tags.tiqcdn.com
+.akstat.io
+.akamai-access.net
+.skimresources.com
+.skimlinks.com
+.viglink.com
+.narrativ.com
+# ==============================
+# MALVERTISING / REDIRECTS
+# ==============================
+.adf.ly
+.ad.fly
+.linkbucks.com
+.fam-ad.com
+.bestapp-install.com
+.mobogenie.com
+.airpush.com
+.leadbolt.com
+.startappservice.com
+.appenda.com
+.getjar.com
+.androidapk.download
+.apkpure-ads.com
+.clicksor.com
+.clicksor.net
+.go.redirectingat.com
+.pepperjam.com
+.shareasale.com
+.linksynergy.com
+.impactradius.com
+.impact.com
+.cj.com
+.commission-junction.com
+.djtrack.com
+.emjcd.com
+# ==============================
+# PUSH NOTIFICATION ADS
+# ==============================
+.pushwoosh.com
+.onesignal.com
+.cdn.onesignal.com
+.pushcrew.com
+.pushpanda.io
+.subscribers.com
+.sendpulse.com
+.pushmonkey.com
+.gravitec.net
+.datapush.net
+.aimtell.com
+.izooto.com
+.pushengage.com
+.web-push-notifications.com
+# ==============================
+# VIDEO / STREAMING ADS
+# ==============================
+.ads.youtube.com
+.doubleclick.net
+.imasdk.googleapis.com
+.pagead.googlesyndication.com
+.fwmrm.net
+.freewheel.tv
+.fwmrm.com
+.yume.com
+.videohub.tv
+.springserve.com
+.tremor.com
+.tremorvideo.com
+.videology.com
+.aniview.com
+.brightroll.com
+.appnexus-cdn.com
+# ==============================
+# SPAM / SCAM / PHISHING AD NETWORKS
+# ==============================
+.zucks.net
+.zucks.co.jp
+.syndication.revcontent.com
+.trackmind.net
+.adprimemedia.com
+.ads4dhtml.com
+.adsforads.com
+.adverticum.net
+.adverticum.com
+.advertserve.com
+.adhigh.net
+.adlantis.com
+.adpolar.com
+.adserv.io
+.adtomafusion.com
+.adyoulike.com
+.betweendigital.com
+.bidtellect.com
+.boldwin.com
+.cpmads.com
+.crsspxl.com
+.deepintent.com
+.districtm.ca
+.e-planning.net
+.iponweb.net
+.jivox.com
+.lkqd.net
+.lkqd.com
+.mediasquare.fr
+.nativo.com
+.ogury.com
+.oneplanetops.com
+.opti-digital.com
+.optinmonster.com
+.playbuzz.com
+.primis.tech
+.rockyou.com
+.seedtag.com
+.setupad.com
+.sortable.com
+.sonobi.com
+.strossle.com
+.tpmn.io
+.traffective.com
+.truste.com
+.turboplayer.io
+.vertamedia.com
+.vidazoo.com
+.vidoomy.com
+.weborama.fr
+.yabidos.com
+.yieldbird.com
+.yieldoptimizer.com
