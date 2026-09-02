@@ -1,20 +1,49 @@
-# Apple Service - DOMAIN-SET format ######
+# NAME: Apple.txt
+# AUTHOR: Surge5 iOS
+# UPDATED: 2026-09-02
+# VERSION: 5.21.1
+# FORMAT: DOMAIN-SET
 
-.appstore.com
-.itunes.com
-.mzstatic.com
-.testflight.apple.com
-.icloud.com
-.icloud-content.com
-.me.com
-.aaplimg.com
-.apple.co
 .apple.com
+.apple-cloudkit.com
 .apple-dns.net
 .apple-mapkit.com
-.apple-support.com
-.cdn-apple.com
+.apple.co
 .apple.news
-.gateway.icloud.com
-.apple-cloudkit.com
-.apple-livephotoskit.com
+.appleid.apple.com
+.aaplimg.com
+.appadmin.apple.com
+.appattest.apple.com
+.appstore.com
+.apzones.com
+.cdn-apple.com
+.crashlytics.com
+.gc.apple.com
+.icloud.com
+.icloud-content.com
+.icloud-mail.com
+.itunes.com
+.itunes.apple.com
+.ls.apple.com
+.me.com
+.mzstatic.com
+.push.apple.com
+.swcdn.apple.com
+.swdist.apple.com
+.swpost.apple.com
+.wikipedia-on-ios.apple.com
+.xp.apple.com
+.gsp-apple.com
+.gsp-ssl.ls.apple.com
+.iphone-ld.apple.com
+.itunes-apple.com.akadns.net
+.mesu.apple.com
+.mobileme.com
+.ppq.apple.com
+.updates-http.cdn-apple.com
+.updates.cdn-apple.com
+.apple.com.akadns.net
+.geo.apple.com
+.apple.com.edgekey.net
+
+
