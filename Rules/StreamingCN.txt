@@ -1,362 +1,54 @@
-# NAME: StreamingCN
-# AUTHOR: Surge5 iOS
-# DESCRIPTION: Chinese Streaming Platforms & Services
-# UPDATED: 2026-09-02
-# VERSION: 5.21.1
-# FORMAT: DOMAIN-SET
-# ==============================
-# TENCENT VIDEO
-# ==============================
-.qq.com
+# China Streaming / Media
+
+# Tencent Video
 .v.qq.com
-.qcloud.com
-.cdn.qq.com
-.vv.video.qq.com
-.video.qq.com
-.imgcache.qq.com
-.idccdn.qq.com
-.access.qq.com
-.play.qq.com
-.mqqad.qq.com
-.analytics.qq.com
-.tencent-cloud.com
-.tencentcs.com
-.tencent.com
-.txserverdns.com
-# ==============================
-# BILIBILI
-# ==============================
+.tenvideo.com
+
+# Bilibili
 .bilibili.com
-.b23.tv
 .bilibili.tv
-.bili.com
-.biliapi.net
-.bilivideo.com
-.bilivideo.cn
-.bbcallen.com
-.cm.bilibili.com
-.analytics.bilibili.com
-.upos-sz-upcdn.bilivideo.com
-.upos-bstar-miohd.bilivideo.com
-.upos-bstar1-dy.bilivideo.com
-.player.bilibili.com
-.s1.hdslb.com
-.s2.hdslb.com
-.s3.hdslb.com
-.s4.hdslb.com
-.vod.media.mihoyo.com
-# ==============================
-# IQIYI
-# ==============================
+.biliapi.com
+.biligame.com
+
+# iQIYI
 .iqiyi.com
-.qiyi.com
-.71.am
-.71.net
 .iqiyipic.com
-.iqiyidns.com
-.iqiyicdn.com
-.cupid.iqiyi.com
-.stats.iqiyi.com
-.vcd.iqiyi.com
-.intl.iqiyi.com
-.pps.tv
-.iqiyipic.cn
-.iqiyipic.io
-.pcvideotcdn.iqiyi.com
-.cdnip.iqiyi.com
-.cache.video.iqiyi.com
-.cache.iqiyi.com
-# ==============================
-# YOUKU
-# ==============================
+
+# Youku / Tudou
 .youku.com
+.youku.tv
 .tudou.com
-.ykimg.com
-.video.alibaba.com
-.youkumiao.com
-.ott.youku.com
-.play.youku.com
-.stats.youku.com
-.beacon.youku.com
-.mobile.youku.com
-.sdk.youku.com
-.alicdn.com
-.aliyun.com
-.aliyuncs.com
-.oss-cn-beijing.aliyuncs.com
-# ==============================
-# NETEASEMUSIC
-# ==============================
-.163.com
-.126.net
-.netease.com
+
+# NetEase Music
 .music.163.com
-.music.126.com
-.neteasevcloudcdn.com
-.163yun.com
-.yun.netease.com
-.cache.netease.com
-.lofter.com
-.manhua.163.com
-.kaola.com
-# ==============================
-# TENCENT MUSIC
-# ==============================
-.music.qq.com
+
+# Tencent Music
 .qqmusic.qq.com
-.qqmusic.cn
-.kuwo.cn
-.kugou.com
-.kg.qq.com
 .y.qq.com
-.y.qq.com.cdn.dnsv1.com
-.music.ts.qq.com
-.moo.qq.com
-.tme.ai
-.tencent-music.com
-# ==============================
-# KUAISHOU
-# ==============================
+
+# Kuaishou
 .kuaishou.com
-.kwaicdn.com
-.kwai.net
-.gifshow.com
-.ulikecam.com
-.photoshop.gifshow.com
-.mobile.kuaishou.com
-.live.kuaishou.com
-.m.kuaishou.com
-.v.kuaishou.com
-# ==============================
-# LIVE STREAMING - HUYA
-# ==============================
+
+# Huya
 .huya.com
-.huyaimg.com
-.huyadnid.com
-.huyaglobal.com
-.huya.tv
-.huya.pro
-.hyacdn.com
-.hybcdn.net
-.hyahls.com
-.static.huya.com
-.liveplay.huya.com
-.cdnhyavs.com
-# ==============================
-# LIVE STREAMING - DOUYU
-# ==============================
+
+# Douyu
 .douyu.com
-.douyucdn.com
-.douyucdn.cn
-.douyu.tv
-.douyu.live
-.dyplay.com
-.d.douyu.com
-.cdnbk.douyu.com
-.cdnfb.douyu.com
-# ==============================
-# LIVE STREAMING - YY LIVE
-# ==============================
+
+# YY
 .yy.com
-.yinyuetai.com
-.yimingxuan.com
-.pps.tv.yy.com
-.huya.com.yy.com
-.uu.cc
-.uuplaytv.com
-# ==============================
-# WEIBO
-# ==============================
+
+# Weibo
 .weibo.com
 .weibo.cn
-.sinaimg.cn
-.sina.com.cn
-.sinajs.cn
-.t.sinajs.cn
-.tjs.sjs.sinajs.cn
-.js.weibo.com
-.live.weibo.com
-.search.weibo.com
-.api.weibo.com
-.api.t.sina.com.cn
-.comment.weibo.com
-.livepush.sinaimg.cn
-.video.sina.com.cn
-# ==============================
-# CCTV+
-# ==============================
+
+# CCTV
 .cctv.com
-.cctv.cn
-.cctv1.com
-.cctv2.com
-.cctv3.com
-.cctv4.com
-.cctv5.com
-.cctv6.com
-.cctv7.com
-.cctv8.com
-.cctv9.com
-.cctv10.com
-.cctv11.com
-.cctv12.com
-.cctv13.com
-.cctv14.com
-.cctv15.com
-.cctvpay.com
-.live.cctv.com
-.wap.cctv.com
-.m.cctv.com
-# ==============================
-# SOHU VIDEO
-# ==============================
+.cntv.cn
+
+# Sohu
 .sohu.com
-.sohucs.com
-.sohucw.com
-.sohuno.com
-.tv.sohu.com
-.live.sohu.com
-.upload.sohu.com
-.stats.sohu.com
-.profile.sohu.com
-# ==============================
-# MGTV
-# ==============================
+
+# Mango TV
 .mgtv.com
-.mgtvs.com
 .hunantv.com
-.mango.zip
-.mgimg.com
-.mgtvs.me
-.ott.mgtv.com
-.play.mgtv.com
-# ==============================
-# LETV / LE
-# ==============================
-.le.com
-.letv.com
-.letvimg.com
-.cdn.le.com
-.cache.le.com
-.leshttpd.com
-.lecloud.com
-.video.le.com
-.play.le.com
-# ==============================
-# PPTV
-# ==============================
-.pptv.com
-.pptvimg.com
-.pptv.cc
-.cdnpptv.com
-.live.pptv.com
-.m.pptv.com
-# ==============================
-# ACFUN / ACINEMA
-# ==============================
-.acfun.tv
-.acfun.cn
-.acinema.com.cn
-.cdn.aixifan.com
-.tx-cdn.aixifan.com
-.yinyuetai.com.cn
-.acimg.com
-# ==============================
-# HUOMAO
-# ==============================
-.huomao.com
-.huomaoimg.com
-.huomao.tv
-.live.huomao.com
-# ==============================
-# ZHANQI TV
-# ==============================
-.zhanqi.tv
-.zhanqistatic.com
-.zhanqi.com
-.live.zhanqi.tv
-# ==============================
-# LONGZHU
-# ==============================
-.longzhu.com
-.longzhuimg.com
-.live.longzhu.com
-# ==============================
-# PAN.BAIDU
-# ==============================
-.pan.baidu.com
-.pcs.baidu.com
-.baidupcs.com
-.baidupcs-gz.com
-.pan.baidupan.com
-.api.baidupcs.com
-.openapi.baidu.com
-.pan.baidupan.net
-# ==============================
-# WECHAT VIDEO
-# ==============================
-.video.wechat.com
-.videomsg.qq.com
-.wx.qq.com
-.wx2.qq.com
-.wxsnssync.wx.qq.com
-# ==============================
-# XUNLEI / THUNDER
-# ==============================
-.xunlei.com
-.Thunder.com
-.lixian.vip.xunlei.com
-.vip.xunlei.com
-.download.xunlei.com
-# ==============================
-# XIAOMI STREAMING
-# ==============================
-.xiaomi.com
-.miui.com
-.mi.com
-.milink.mi.com
-.etc.milink.mi.com
-.mi-img.com
-.miimg.net
-.mistat.xiaomi.com
-# ==============================
-# HUAWEI STREAMING
-# ==============================
-.huawei.com
-.hw-cdn.com
-.huaweicloud.com
-.myhuaweicloud.com
-.video.huawei.com
-# ==============================
-# OPPO / VIVO STREAMING
-# ==============================
-.oppo.com
-.coloros.com
-.oppomobile.com
-.vivo.com
-.vivoglobal.com
-.vivo-img.com
-.vivobbs.com
-# ==============================
-# ONEPLUA / REALME
-# ==============================
-.oneplus.com
-.oneplus.cn
-.realme.com
-.realmemobiles.com
-# ==============================
-# JINGDONG
-# ==============================
-.jd.com
-.jd.hk
-.jdcloud.com
-.jdpay.com
-.360buyimg.com
-.jimg.cn
-# ==============================
-# TAOBAO / ALIPAY VIDEO
-# ==============================
-.taobao.com
-.alipay.com
-.alibabacloud.com
-.taobaocdn.com
-.aliimg.com
