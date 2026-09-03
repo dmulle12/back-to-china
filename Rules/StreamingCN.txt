@@ -357,8 +357,6 @@
 # ==============================
 .taobao.com
 .alipay.com
-.aliyun.com
 .alibabacloud.com
 .taobaocdn.com
 .aliimg.com
-.aliyuncs.com
