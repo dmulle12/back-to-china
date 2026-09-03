@@ -1,34 +1,36 @@
-# Proxy list: common overseas services
+# Proxy exceptions
+# Force overseas services to proxy
 
-.gstatic.com
-.ggpht.com
-.gvt1.com
 .youtube.com
-.ytimg.com
+
 .github.com
 .githubusercontent.com
 .githubassets.com
 .githubapp.com
+
 .netflix.com
-.amazonaws.com
 .nflxvideo.net
 .nflximg.net
+
 .openai.com
-.ai.com
+.chatgpt.com
 .oaistatic.com
 .oaiusercontent.com
+
 .anthropic.com
 .claude.ai
+
 .discord.com
 .discordapp.com
+
+.docker.io
+.quay.io
+
 .medium.com
 .wikipedia.org
 .wikimedia.org
-.docker.io
-.chatgpt.com
-.quay.io
+
 .ai.google.dev
 .ai.studio
-.aistudio.google.com
 .gemini.google
 .gemini.google.com
