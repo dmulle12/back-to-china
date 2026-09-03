@@ -110,7 +110,6 @@
 .moatads.com
 .moatpixel.com
 .ib.adnxs.com
-.adnxs.com
 .criteo.com
 .criteo.net
 .rtax.criteo.com
@@ -379,7 +378,6 @@
 # VIDEO / STREAMING ADS
 # ==============================
 .ads.youtube.com
-.doubleclick.net
 .imasdk.googleapis.com
 .pagead.googlesyndication.com
 .fwmrm.net
