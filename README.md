@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-`back-to-china` is a complete Surge (iOS/macOS) configuration suite designed to enable **access to Chinese services** when you are abroad. It routes traffic through mainland nodes or direct connections and includes common ad‑blocking, DNS handling, and LAN‑direct rules.
+> back-to-china` is a complete Surge (iOS/macOS) configuration suite designed to enable **access to Chinese services** when you are abroad. It routes traffic through mainland nodes or direct connections and includes common ad‑blocking, DNS handling, and LAN‑direct rules.
 
 > The core file is `BackToChina.conf`. The accompanying **Modules**, **Rules**, and **Scripts** directories provide modular components, rule sets, and utility scripts that can be imported directly into Surge.
 
