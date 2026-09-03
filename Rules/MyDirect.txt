@@ -3,10 +3,7 @@
 # UPDATED: 2026-09-03
 # VERSION: 5.21.1
 # FORMAT: DOMAIN-SET
-# POLICY: DIRECT
-# ==============================
-# MALAYSIA LOCAL DOMAINS & SERVICES
-# ==============================
+
 .my
 .com.my
 .gov.my
