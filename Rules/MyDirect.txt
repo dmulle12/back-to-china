@@ -1,97 +1,11 @@
 # NAME: MyDirect.txt
 # AUTHOR: Surge5 iOS
-# UPDATED: 2026-09-02
+# UPDATED: 2026-09-03
 # VERSION: 5.21.1
 # FORMAT: DOMAIN-SET
 # POLICY: DIRECT
 # ==============================
-# FACEBOOK / META
-# ==============================
-.facebook.com
-.fb.com
-.fb.me
-.fbcdn.net
-.fbsbx.com
-.fburl.com
-.facebook.net
-.instagram.com
-.cdninstagram.com
-.meta.com
-.meta.ai
-.whatsapp.com
-.whatsapp.net
-.messenger.com
-.oculus.com
-.oculuscdn.com
-.workplace.com
-.atdmt.com
-.accountkit.com
-.fb.gg
-.fbpigeon.com
-.fbnewsroomus.com
-.fblive-origin.facebook.com
-.edge-mqtt.facebook.com
-.mqtt.c10r.facebook.com
-.connect.facebook.net
-.graph.facebook.com
-.staticxx.facebook.com
-.scontent.xx.fbcdn.net
-# ==============================
-# GITHUB
-# ==============================
-.github.com
-.github.io
-.github.dev
-.githubusercontent.com
-.githubapp.com
-.githubassets.com
-.githubcopilot.com
-.github.blog
-.ghcr.io
-.npmjs.com
-.npmjs.org
-.npm.community
-.raw.githubusercontent.com
-.codeload.github.com
-.objects.githubusercontent.com
-.avatars.githubusercontent.com
-.api.github.com
-.uploads.github.com
-.releases.githubusercontent.com
-.gist.github.com
-.pages.github.com
-.pkg.github.com
-# ==============================
-# TIKTOK / BYTEDANCE
-# ==============================
-.tiktok.com
-.tiktokv.com
-.tiktokcdn.com
-.tiktokcdn-us.com
-.tiktokd.com
-.tiktokio.com
-.tiktok-row.com
-.tiktokweb.com
-.tiktokglobal.com
-.tiktokstatic.com
-.tiktokbytedance.com
-.bytedance.com
-.bytedanceapi.com
-.byteoversea.com
-.byteimg.com
-.bytetcdn.com
-.ibytedtos.com
-.ipstatp.com
-.muscdn.com
-.musical.ly
-.ixigua.com
-.larkoffice.com
-.larksuite.com
-.douyincdn.com
-.p19-sign.tiktokcdn.com
-.sf16-sg.tiktokcdn.com
-# ==============================
-# Others
+# MALAYSIA LOCAL DOMAINS & SERVICES
 # ==============================
 .my
 .com.my
@@ -111,11 +25,8 @@
 .myeg.com.my
 .pos.com.my
 .maybank2u.com.my
-.maybank.com
 .cimbclicks.com.my
-.cimb.com
 .publicbank.com.my
-.rhbgroup.com
 .hongleongconnect.my
 .bankislam.com.my
 .ambank.com.my
@@ -133,14 +44,11 @@
 .u.mobile.my
 .umobile.com.my
 .tune.com.my
-.airasia.com
 .mas.com.my
 .malaysiaairlines.com
 .klia.com.my
 .mahb.com.my
 .touchngo.com.my
-.grab.com
-.grabpay.com
 .shopee.com.my
 .lazada.com.my
 .mudah.my
@@ -154,7 +62,6 @@
 .rtm.gov.my
 .tv3.com.my
 .astroawani.com
-.bernama.com
 .jkr.gov.my
 .moh.gov.my
 .mysejahtera.gov.my
@@ -163,11 +70,3 @@
 .jpn.gov.my
 .spa.gov.my
 .mampu.gov.my
-# ==============================
-# Telegram ASN
-# ==============================
-IP-ASN,62041,no-resolve
-IP-ASN,62014,no-resolve
-IP-ASN,59930,no-resolve
-IP-ASN,211157,no-resolve
-IP-ASN,44907,no-resolve
