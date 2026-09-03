@@ -50,9 +50,9 @@ back-to-china/
    - Open **Modules → Import** and import every `.sgmodule` file from the `Modules` folder. You can open each raw file in the browser and use “Copy Link → Open in Surge”.
    - Ensure that any iOS‑specific modules (e.g., `General.sgmodule`) are enabled on the **Modules** page.
 
-3. **Import Rule Sets**
-   - In Surge, go to **Rules → Import** and import all `.txt` files from the `Rules` folder.
-   - `BackToChina.conf` already references a remote RULE‑SET (`StreamingCN.list`), so no extra steps are required for that list.
+3. **Rule Sets**
+   - `BackToChina.conf` already loads the hosted rule sets from this repository for ad blocking, Malaysian local services, Apple services, overseas/AI services, Chinese domains, and Chinese streaming services.
+   - Keep the profile URL accessible so Surge can refresh these rule sets. To use a fork, replace `dmulle12/back-to-china` in the `RULE-SET` URLs with your own repository path.
 
 4. **Add Scripts (optional)**
    - Navigate to **Scripts → New**, paste the contents of `Scripts/flush-dns.js` and `Scripts/network-info.js`.
