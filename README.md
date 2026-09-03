@@ -88,7 +88,7 @@ back-to-china/
 
 ## License
 
-This project is released under the **MIT License**. Feel free to use, modify, and distribute it.
+> This project is released under the **MIT License**. Feel free to use, modify, and distribute it.
 
 ---
 
