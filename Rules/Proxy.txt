@@ -12,14 +12,6 @@
 .nflxvideo.net
 .nflximg.net
 
-.openai.com
-.chatgpt.com
-.oaistatic.com
-.oaiusercontent.com
-
-.anthropic.com
-.claude.ai
-
 .discord.com
 .discordapp.com
 
@@ -29,8 +21,3 @@
 .medium.com
 .wikipedia.org
 .wikimedia.org
-
-.ai.google.dev
-.ai.studio
-.gemini.google
-.gemini.google.com
