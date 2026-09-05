@@ -23,7 +23,6 @@
 .icloud-content.com
 .icloud-mail.com
 .icloud.com.cn
-.apple-mapkit.com
 .apple-dns.com
 .apple-dns.cn
 .itunes.com
