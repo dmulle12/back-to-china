@@ -3,6 +3,16 @@
 
 .youtube.com
 
+.google.com
+.googleapis.com
+.gstatic.com
+.googleusercontent.com
+.googlevideo.com
+.googletagmanager.com
+.googlesyndication.com
+.googleadservices.com
+.doubleclick.net
+
 .github.com
 .githubusercontent.com
 .githubassets.com
