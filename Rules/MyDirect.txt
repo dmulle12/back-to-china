@@ -67,3 +67,4 @@
 .jpn.gov.my
 .spa.gov.my
 .mampu.gov.my
+.fbcdn.net
