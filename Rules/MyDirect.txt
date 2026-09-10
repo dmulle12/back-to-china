@@ -68,3 +68,5 @@
 .spa.gov.my
 .mampu.gov.my
 .fbcdn.net
+.whatsapp.net
+.whatsapp.com
