@@ -11,7 +11,6 @@ dns-server = 1.1.1.1, 8.8.8.8
 loglevel = notify
 show-error-page-for-reject = true
 
-# 仅在这些域名直连（不是代理）
 always-real-ip = msftconnecttest.com, msftncsi.com, *.msftconnecttest.com, *.msftncsi.com, *.srv.nintendo.net, *.stun.playstation.net, xbox.*.microsoft.com, *.xboxlive.com, cloudflare.com, duckduckgo.com
 
 internet-test-url = http://www.apple.com/library/test/success.html
@@ -24,7 +23,6 @@ hide-crash-reporter-request = 1
 hide-udp = 0
 
 [Proxy]
-PROXY1 = http://proxy.example.com:1080    # 真实境外代理
 🌐Direct = direct
 ⛔️Reject = reject
 
