@@ -32,8 +32,6 @@ hide-udp = 0
 
 [Rule]
 RULE-SET,LAN,🌐Direct,no-resolve
-DOMAIN-SET,https://raw.githubusercontent.com/entropi-hk/surge-rule-sets/main/blocklist-domain-sets/hagezi-pro.txt,⛔️Reject
-DOMAIN-SET,https://raw.githubusercontent.com/entropi-hk/surge-rule-sets/main/blocklist-domain-sets/hagezi-tif.txt,⛔️Reject
 DOMAIN-SET,https://raw.githubusercontent.com/dmulle12/back-to-china/master/Rules/Ai.txt,🌑Proxy
 DOMAIN-SET,https://raw.githubusercontent.com/dmulle12/back-to-china/master/Rules/Proxy.txt,🌑Proxy
 RULE-SET,https://raw.githubusercontent.com/dmulle12/back-to-china/master/Rules/Study.txt,🌑Proxy
