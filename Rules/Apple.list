@@ -6,3 +6,5 @@ DOMAIN-SUFFIX, icloud-content.com
 DOMAIN-SUFFIX, cdn-apple.com
 DOMAIN-SUFFIX, gateway.icloud.com
 DOMAIN-SUFFIX, metrics.icloud.com
+
+IP-ASN, 714 ,no-resolve
