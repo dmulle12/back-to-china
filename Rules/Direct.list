@@ -1,0 +1,23 @@
+# Google
+DOMAIN-SUFFIX,google.com
+DOMAIN-SUFFIX,google.com.my
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,gmail.com
+DOMAIN-SUFFIX,googleusercontent.com
+IP-ASN,15169
+
+# Cloudflare
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,cloudflareinsights.com
+DOMAIN-SUFFIX,ocsp.digicert.com
+DOMAIN-SUFFIX,one.one.one.one
+IP-ASN,13335
+
+# AWS
+DOMAIN-SUFFIX,amazonaws.com
+IP-ASN,16509
+
+# GitHub
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,githubusercontent.com
+IP-ASN,8075
