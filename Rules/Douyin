@@ -3,8 +3,9 @@
 #!date=2026-08-19 10:10:00
 #############################################
 
-DOMAIN-SUFFIX, amemv.com
-DOMAIN-SUFFIX, douyinvod.com
-DOMAIN-SUFFIX, snssdk.com
+DOMAIN-SUFFIX,amemv.com
+DOMAIN-SUFFIX,snssdk.com
+DOMAIN-SUFFIX,douyinvod.com
+DOMAIN-SUFFIX,douyinpic.com
 
 #############################################
