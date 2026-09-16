@@ -2,7 +2,7 @@
 # Rule Name:      Direct / Overseas Direct Rules
 # Target Region:  Malaysia / Non-GFW Environments
 # Policy:         Force DIRECT for all domains and IP-ASNs
-# Services:       Apple / Google / Cloudflare / AWS / GitHub / Telegram
+# Services:       Apple / Google / Cloudflare / AWS / GitHub / Telegram / Facebook / Wahtsapp
 # ===================================================
 # Apple
 DOMAIN-SUFFIX, apple.com
@@ -45,3 +45,13 @@ IP-ASN, 62041, no-resolve
 IP-ASN, 211157, no-resolve
 IP-CIDR, 5.28.192.0/18, no-resolve
 IP-CIDR, 109.239.140.0/24, no-resolve
+
+# Meta Services (Facebook & WhatsApp)
+DOMAIN-SUFFIX,facebook.com
+DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-SUFFIX,whatsapp.com
+DOMAIN-SUFFIX,whatsapp.net
+IP-ASN,32934
+
+
+
