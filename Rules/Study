@@ -121,6 +121,7 @@ DOMAIN-SUFFIX,msftidentity.com
 DOMAIN-SUFFIX,windowsazure.com
 DOMAIN-SUFFIX,windows.net
 DOMAIN-SUFFIX,mimecast.com
+IP-ASN,8075
 
 # Microsoft authentication static resources
 DOMAIN-SUFFIX,msauth.net
