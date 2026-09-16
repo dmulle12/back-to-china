@@ -5,13 +5,13 @@
 # Services:       Apple / Google / Cloudflare / AWS / GitHub / Telegram / Facebook / Wahtsapp
 # ===================================================
 # Apple
-DOMAIN-SUFFIX, apple.com
-DOMAIN-SUFFIX, gstatic.com
-DOMAIN-SUFFIX, icloud-content.com
-DOMAIN-SUFFIX, cdn-apple.com
-DOMAIN-SUFFIX, gateway.icloud.com
+DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,icloud-content.com
+DOMAIN-SUFFIX,cdn-apple.com
+DOMAIN-SUFFIX,gateway.icloud.com
 DOMAIN-SUFFIX, metrics.icloud.com
-IP-ASN, 714
+IP-ASN,714
 
 # Google
 DOMAIN-SUFFIX,google.com
@@ -35,16 +35,13 @@ IP-ASN,16509
 # GitHub
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,githubusercontent.com
-IP-ASN,8075
 
 # Telegram
-IP-ASN, 44907, no-resolve
-IP-ASN, 62014, no-resolve
-IP-ASN, 59930, no-resolve
-IP-ASN, 62041, no-resolve
-IP-ASN, 211157, no-resolve
-IP-CIDR, 5.28.192.0/18, no-resolve
-IP-CIDR, 109.239.140.0/24, no-resolve
+IP-ASN,44907
+IP-ASN,62014
+IP-ASN,59930
+IP-ASN,62041
+IP-ASN,211157
 
 # Meta Services (Facebook & WhatsApp)
 DOMAIN-SUFFIX,facebook.com
