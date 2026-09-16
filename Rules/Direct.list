@@ -1,4 +1,9 @@
-
+# ===================================================
+# Rule Name:      Direct / Overseas Direct Rules
+# Target Region:  Malaysia / Non-GFW Environments
+# Policy:         Force DIRECT for all domains and IP-ASNs
+# Services:       Apple / Google / Cloudflare / AWS / GitHub
+# ===================================================
 # Apple
 DOMAIN-SUFFIX, apple.com
 DOMAIN-SUFFIX, gstatic.com
@@ -6,7 +11,7 @@ DOMAIN-SUFFIX, icloud-content.com
 DOMAIN-SUFFIX, cdn-apple.com
 DOMAIN-SUFFIX, gateway.icloud.com
 DOMAIN-SUFFIX, metrics.icloud.com
-IP-ASN, 714 ,no-resolve
+IP-ASN, 714
 
 # Google
 DOMAIN-SUFFIX,google.com
