@@ -14,9 +14,9 @@ DOMAIN,stats.g.doubleclick.net
 DOMAIN,tnc0-aliec2.zijieapi.com
 DOMAIN,www.googletagmanager.com
 DOMAIN,go.mavrtracktor.com
-DOMAIN,scontent.fjhb2-1.fna.fbcdn.net
-DOMAIN,scontent.fmkz1-1.fna.fbcdn.net
-DOMAIN,scontent.fmkz1-2.fna.fbcdn.net
+#	DOMAIN,scontent.fjhb2-1.fna.fbcdn.net
+# DOMAIN,scontent.fmkz1-1.fna.fbcdn.net
+# DOMAIN,scontent.fmkz1-2.fna.fbcdn.net
 
 
 
