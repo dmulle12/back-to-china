@@ -1,6 +1,6 @@
 # CSUN / School Email + Microsoft 365 SSO Stable
 # Surge Rule Set
-# It is recommended to bind to a fixed U.S. node, such as US-SFO-01 / US-LAX-01
+# It is recommended to bind to a fixed U.S. node, such as US-SFO-01 / US
 
 DOMAIN-KEYWORD,1drv
 DOMAIN-KEYWORD,microsoft
