@@ -62,11 +62,14 @@ DOMAIN-SUFFIX,myqcloud.com
 DOMAIN-SUFFIX,gov.cn
 DOMAIN-SUFFIX,edu.cn
 
-
+# Others
+DOMAIN-SUFFIX,douyinstatic.com
 DOMAIN-SUFFIX,zijieapi.com
 DOMAIN-SUFFIX,ecombdapi.com
 DOMAIN-SUFFIX,zjcdn.com
 DOMAIN-SUFFIX,bytegecko.com
+DOMAIN-SUFFIX,qishui.com
+DOMAIN-SUFFIX,ecombdapi.com
 
 # Bilibili
 DOMAIN-SUFFIX,hdslb.com
