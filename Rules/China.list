@@ -1,7 +1,61 @@
+# China Mainland Domains
+
+# Tencent / WeChat
+DOMAIN-SUFFIX,qq.com
+DOMAIN-SUFFIX,qpic.cn
+DOMAIN-SUFFIX,gtimg.cn
+DOMAIN-SUFFIX,wechat.com
+DOMAIN-SUFFIX,weixin.qq.com
+
+# NetEase
+DOMAIN-SUFFIX,netease.com
+DOMAIN-SUFFIX,163.com
+
+# Music
+DOMAIN-SUFFIX,kugou.com
+DOMAIN-SUFFIX,kuwo.cn
+DOMAIN-SUFFIX,migu.cn
+
+# E-commerce
+DOMAIN-SUFFIX,taobao.com
+DOMAIN-SUFFIX,tmall.com
+DOMAIN-SUFFIX,jd.com
+DOMAIN-SUFFIX,360buyimg.com
+DOMAIN-SUFFIX,pinduoduo.com
+DOMAIN-SUFFIX,meituan.com
+DOMAIN-SUFFIX,ele.me
+
+# Payment
+DOMAIN-SUFFIX,alipay.com
+DOMAIN-SUFFIX,alipayobjects.com
+DOMAIN-SUFFIX,95516.com
+DOMAIN-SUFFIX,unionpay.com
+
+# Search / Social
+DOMAIN-SUFFIX,baidu.com
+DOMAIN-SUFFIX,bdstatic.com
+DOMAIN-SUFFIX,weibo.com
+DOMAIN-SUFFIX,weibo.cn
+
+# Cloud
+DOMAIN-SUFFIX,aliyun.com
+DOMAIN-SUFFIX,alicdn.com
+DOMAIN-SUFFIX,aliyuncs.com
+DOMAIN-SUFFIX,qcloud.com
+DOMAIN-SUFFIX,myqcloud.com
+
+# Government / Education
+DOMAIN-SUFFIX,gov.cn
+DOMAIN-SUFFIX,edu.cn
+
+
 DOMAIN-SUFFIX,zijieapi.com
 DOMAIN-SUFFIX,ecombdapi.com
 DOMAIN-SUFFIX,zjcdn.com
 DOMAIN-SUFFIX,bytegecko.com
+
+# Bilibili
+DOMAIN-SUFFIX,hdslb.com
 DOMAIN-SUFFIX,bytehwm.com
 DOMAIN-SUFFIX,biliapi.com
 DOMAIN-SUFFIX,biliapi.net
