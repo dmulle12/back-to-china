@@ -1,3 +1,6 @@
+DOMAIN,sessions.bugsnag.com
+DOMAIN,notify.bugsnag.com
+DOMAIN,api.mixpanel.com
 DOMAIN,iadsdk.apple.com
 DOMAIN,dit.whatsapp.net
 DOMAIN,a.magsrv.com
