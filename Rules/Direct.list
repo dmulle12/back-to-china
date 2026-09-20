@@ -12,8 +12,8 @@ DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,gateway.icloud.com
 DOMAIN-SUFFIX,metrics.icloud.com
 DOMAIN-SUFFIX,mzstatic.com
-DIMAIN,imap.mail.icloud.com.cn
-DIMAIN,imap.mail.icloud.com
+DOMAIN,imap.mail.icloud.com.cn
+DOMAIN,imap.mail.icloud.com
 IP-ASN,714
 
 # Google
