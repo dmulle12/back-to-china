@@ -76,6 +76,7 @@ DOMAIN-SUFFIX,bytegecko.com
 DOMAIN-SUFFIX,qishui.com
 DOMAIN-SUFFIX,ecombdapi.com
 DOMAIN-SUFFIX,huasheng.cn
+IP-CIDR,163.181.90.197/32
 
 # Bilibili
 DOMAIN-SUFFIX,hdslb.com
