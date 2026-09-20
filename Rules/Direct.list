@@ -11,7 +11,7 @@ DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,gateway.icloud.com
 DOMAIN-SUFFIX,metrics.icloud.com
-DOMAIN,apps.mzstatic.com
+DOMAIN-SUFFIX,mzstatic.com
 IP-ASN,714
 
 # Google
