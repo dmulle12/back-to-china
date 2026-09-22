@@ -1,32 +1,119 @@
-DOMAIN,www.google-analytics.com
-DOMAIN,strip.chat
-DOMAIN,sessions.bugsnag.com
-DOMAIN,notify.bugsnag.com
-DOMAIN,api.mixpanel.com
-DOMAIN,iadsdk.apple.com
-DOMAIN,dit.whatsapp.net
+# ==========================================
+# Ads / Advertising
+# ==========================================
+
 DOMAIN,a.magsrv.com
 DOMAIN,cdn.tsyndicate.com
-DOMAIN,fbs.smoot.apple.com
-DOMAIN,firebaselogging-pa.googleapis.com
 DOMAIN,js.onclckbnr.com
-DOMAIN,lf-leads-fe-scm.bytecdn.com
-DOMAIN,log-hl.snssdk.com
-DOMAIN,log0-misc-lf.amemv.com
-DOMAIN,mssdk3-normal-hj.zijieapi.com
 DOMAIN,ptelastaxo.com
+DOMAIN,go.mavrtracktor.com
+
+DOMAIN,ads-api.tiktok.com
+DOMAIN,ads-sg.tiktok.com
+DOMAIN,business-api.tiktok.com
+DOMAIN,ads.tiktok.com
+
+DOMAIN,pixel.facebook.com
+DOMAIN,an.facebook.com
+
+DOMAIN,static.ads-twitter.com
+DOMAIN,ads-api.twitter.com
+
+DOMAIN,ads.pinterest.com
+DOMAIN,log.pinterest.com
+DOMAIN,trk.pinterest.com
+
+DOMAIN,ads.youtube.com
+
+DOMAIN,doubleclick.net
+DOMAIN,stats.g.doubleclick.com
+DOMAIN,stats.g.doubleclick.net
+DOMAIN,ad.doubleclick.net
+DOMAIN,static.doubleclick.net
+DOMAIN,m.doubleclick.net
+DOMAIN,mediavisor.doubleclick.net
+
+DOMAIN,media.net
+DOMAIN,static.media.net
+DOMAIN,adservetx.media.net
+
+DOMAIN,pagead2.googlesyndication.com
+DOMAIN,adservice.google.com
+DOMAIN,pagead2.googleadservices.com
+DOMAIN,afs.googlesyndication.com
+
+DOMAIN,ads30.adcolony.com
+DOMAIN,adc3-launch.adcolony.com
+DOMAIN,events3alt.adcolony.com
+DOMAIN,wd.adcolony.com
+
+DOMAIN,api-adservices.apple.com
+
+DOMAIN,adtago.s3.amazonaws.com
+DOMAIN,analyticsengine.s3.amazonaws.com
+DOMAIN,analytics.s3.amazonaws.com
+DOMAIN,advice-ads.s3.amazonaws.com
+
+
+# ==========================================
+# Analytics / Tracking
+# ==========================================
+
+DOMAIN,www.google-analytics.com
+DOMAIN,www.googletagmanager.com
+
+DOMAIN,api.mixpanel.com
+
 DOMAIN,s10.histats.com
 DOMAIN,sdk.51.la
-DOMAIN,stats.g.doubleclick.net
-DOMAIN,tnc0-aliec2.zijieapi.com
-DOMAIN,www.googletagmanager.com
-DOMAIN,go.mavrtracktor.com
-DOMAIN,stats.g.doubleclick.com
+
+DOMAIN,iadsdk.apple.com
+DOMAIN,fbs.smoot.apple.com
+
+DOMAIN,firebaselogging-pa.googleapis.com
+
 DOMAIN,netapm.music.163.com
 DOMAIN,clientlogsf.music.163.com
 DOMAIN,clientlogdep.music.163.com
 
-# Adguard
+
+# ==========================================
+# Bugsnag / Error Reporting
+# ==========================================
+
+DOMAIN,sessions.bugsnag.com
+DOMAIN,notify.bugsnag.com
+
+
+# ==========================================
+# TikTok / ByteDance / Douyin Tracking
+# ==========================================
+
+DOMAIN,lf-leads-fe-scm.bytecdn.com
+DOMAIN,log-hl.snssdk.com
+DOMAIN,log0-misc-lf.amemv.com
+DOMAIN,mssdk3-normal-hj.zijieapi.com
+DOMAIN,tnc0-aliec2.zijieapi.com
+
+
+# ==========================================
+# WhatsApp Tracking
+# ==========================================
+
+DOMAIN,dit.whatsapp.net
+
+
+# ==========================================
+# Chat / Tracking
+# ==========================================
+
+DOMAIN,strip.chat
+
+
+# ==========================================
+# AdGuard List Entries
+# ==========================================
+
 DOMAIN,work.ua
 DOMAIN,yummly.com
 DOMAIN,woman.excite.co.jp
@@ -39,6 +126,3 @@ DOMAIN,espncricinfo.com
 DOMAIN,mathway.com
 DOMAIN,clearnotebooks.com
 DOMAIN,takagi-member.jp
-
-
-
