@@ -78,6 +78,7 @@ DOMAIN-SUFFIX,ecombdapi.com
 DOMAIN-SUFFIX,huasheng.cn
 DOMAIN,api5-hl.qishui.com
 DOMAIN,dig.zjurl.cn
+DOMAIN,lf3-static.bytednsdoc.com
 IP-CIDR,101.36.166.16/32
 IP-CIDR,163.181.90.197/32
 IP-CIDR,139.177.248.226/32
