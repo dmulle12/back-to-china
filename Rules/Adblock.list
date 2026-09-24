@@ -75,6 +75,7 @@ DOMAIN,firebaselogging-pa.googleapis.com
 ==========================================
 # NetEaseMusic
 # ==========================================
+
 DOMAIN,clientlogsf.music.163.com
 DOMAIN,clientlogdep.music.163.com
 DOMAIN,netapm.music.163.com
@@ -108,9 +109,9 @@ DOMAIN,notify.bugsnag.com
 DOMAIN,lf-leads-fe-scm.bytecdn.com
 DOMAIN,log-hl.snssdk.com
 DOMAIN,log0-misc-lf.amemv.com
+DOMAIN,polaris5-normal-zb.zijieapi.com
 DOMAIN,mssdk3-normal-hj.zijieapi.com
 DOMAIN,tnc0-aliec2.zijieapi.com
-
 
 # ==========================================
 # WhatsApp Tracking
